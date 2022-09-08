@@ -5,8 +5,7 @@
 * [Technologies](#technologies-used)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+
 
 ## General Information
 This program allows the user to manage existing and new projects in the company.
